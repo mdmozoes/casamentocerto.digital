@@ -15,6 +15,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	vertical-align: top;
 	width: 100vw;
 	height: 100vh;
 	background: url("ba.jpeg") no-repeat fixed center;
