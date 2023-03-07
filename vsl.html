@@ -65,7 +65,10 @@
             <!-- Termos de Uso e Política de Privacidade -->
             <div class="text-white mt-4"><a href="termos.html" class="text-white">Termos de Uso</a> | <a href="privacidade.html" class="text-white">Política de Privacidade</a></div>
          
-            <!-- Imagem Depoimento -->
+            <!-- Imagens com delay -->
+            <div id="site" class="mt-4 d-none">
+              <img class="img-fluid" src="grandesite.png">
+            </div>
             <div id="depo" class="mt-4 d-none">
               <img class="img-fluid" src="depoimento.png">
             </div>
@@ -77,6 +80,10 @@
     <script type="text/javascript">
       setTimeout(() => {document.getElementById("cta1").classList.remove("d-none")}, 1590000);
       <!-- temporização da Call to Action (em milissegundos)-->
+    </script>
+    <script type="text/javascript">
+      setTimeout(() => {document.getElementById("site").classList.remove("d-none")}, 10000);
+      <!-- temporização do preço, bônus, garantia (em milissegundos)-->
     </script>
     <script type="text/javascript">
       setTimeout(() => {document.getElementById("depo").classList.remove("d-none")}, 10000);
