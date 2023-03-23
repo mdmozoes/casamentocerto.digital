@@ -22,8 +22,8 @@ body {
 }
 
 .container {
-	width: 500px;
-	max-width: 90%;
+	width: 400px;
+	max-width: 70%;
 }
 
 .black {
@@ -51,7 +51,7 @@ body {
 }
 
 .black h1 {
-	color: blue;
+	color: green;
 }
 
 .black p {
