@@ -32,25 +32,16 @@ body {
 	gap: 10px;
 }
 
-.btn1 {
+.btn {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #f76ad4;
+	background-color: #6af7ae;
 	outline: none;
 	color: black;
 	text-decoration: none;
 }
 
-.btn2 {
-	border-radius: 10px;
-	padding: 5px 10px;
-	font-size: 30px;
-	background-color: #6abcf7;
-	outline: none;
-	color: black;
-	text-decoration: none;
-}
 
 .black h1 {
 	color: white;
