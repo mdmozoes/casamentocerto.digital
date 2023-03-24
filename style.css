@@ -1,4 +1,4 @@
-@font-face (max-width: 768px) {
+@font-face {
 	font-family: Gotham Rounded;
 	src: url("font.otf") format("opentype");
 }
@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-	align: center;
+	text-align: center;
 	width: 400px;
 	max-width: 70%;
 }
